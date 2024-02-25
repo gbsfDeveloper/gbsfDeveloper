@@ -2,7 +2,7 @@
 
 Contact me on :
 
-<a href="custom_anchor_name" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="www.linkedin.com/in/gelacio-bsf-software-developer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 :earth_americas: **Location**: Mexico
 
